@@ -1,5 +1,5 @@
 ## SocialMediaWebsite
-#ABSTRACT
+
 Social networks constitute the greatest global information platform on the internet
 today. They have become an indispensable part of our daily lives, As people
 spend more time socializing on the internet.
